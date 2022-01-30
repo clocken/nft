@@ -13,6 +13,8 @@
     - [Wozu die Blockchain?](#wozu-die-blockchain)
     - [Wozu der Hash?](#wozu-der-hash)
 
+---
+
 ## Die praktische Seite
 
 ### Was brauche ich um NFTs zu verkaufen?
