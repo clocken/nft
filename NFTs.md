@@ -47,7 +47,14 @@ Wiederkehrende _gas fees_ für:
 
 ### Alles weitere
 
-Ich empfehle, sich ein wenig durch das [Help Center von OpenSea](https://support.opensea.io/hc/en-us) zu lesen. Das ist manchmal etwas mühselig, weil es in so einem Frage-Antwort-Schema aufgebaut ist und man manchmal suchen muss, bis man eine halbwegs befriedigende Antwort zu dem findet, was man wissen möchte. Dennoch ist es meiner Meinung nach wichtig, um Kostenüberraschungen zu vermeiden; man sollte möglichst genau verstehen, wie viel Verkaufserlös am Ende wirklich rauskommt. Hier noch ein [Video mit Tips](https://yewtu.be/watch?v=mj-OgSlX2UE), wie man NFT-Angebote setzen sollte, um _gas fees_ klein zu halten.
+Ich empfehle, sich ein wenig durch das [Help Center von OpenSea](https://support.opensea.io/hc/en-us) zu lesen. Das ist manchmal etwas mühselig, weil es in so einem Frage-Antwort-Schema aufgebaut ist und man manchmal suchen muss, bis man eine halbwegs befriedigende Antwort zu dem findet, was man wissen möchte. Dennoch ist es meiner Meinung nach wichtig, um Kostenüberraschungen zu vermeiden; man sollte möglichst genau verstehen, wie viel Verkaufserlös am Ende wirklich rauskommt.
+
+Abschließend noch zwei Videos zu NFTs:
+
+* [Einfache Video-Erklärung](https://yewtu.be/watch?v=uVTMALeu_I4), was NFTs sind und ob es sich lohnt seine Kunst als NFT zu verkaufen oder lieber woanders. Die ist etwas nervig, aber was sie erzählt, scheint mir sinnvoll zu sein - wenn auch technisch teils nicht ganz korrekt
+* [Video mit Tips](https://yewtu.be/watch?v=mj-OgSlX2UE), wie man NFT-Angebote setzen sollte, um _gas fees_ klein zu halten
+
+---
 
 ## Die technische Seite
 
