@@ -9,7 +9,7 @@
     - [Alles weitere](#alles-weitere)
   - [Die technische Seite](#die-technische-seite)
     - [Was ist ein NFT?](#was-ist-ein-nft)
-    - [Kann man damit Besitzverhältnisse abbilden?](#kann-man-damit-besitzverhältnisse-abbilden)
+      - [Kann man damit Besitzverhältnisse abbilden?](#kann-man-damit-besitzverhältnisse-abbilden)
     - [Wozu die Blockchain?](#wozu-die-blockchain)
     - [Wozu der Hash?](#wozu-der-hash)
 
@@ -87,7 +87,7 @@ Die obigen Beispiele kommen aus der echten Welt. Indentifizierende Tokens gibt e
 
 Würde auch nur ein Pixel des Bildes verändert, dann würde sich auch der Hash ändern, den man daraus generiert.
 
-### Kann man damit Besitzverhältnisse abbilden?
+#### Kann man damit Besitzverhältnisse abbilden?
 
 Weil von Dateien immer beliebig viele Kopien erzeugt werden können, ist es schwierig in der virtuellen Welt einen eindeutigen Besitzer einer Datei festzulegen. Man kann den Urheber versuchen zu benennen, aber nicht mal das ist immer einfach.
 
