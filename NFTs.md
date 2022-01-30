@@ -19,9 +19,9 @@
 
 Um NFTs zu verkaufen, muss man sie erstellen (wird auch "minting" genannt) und irgendwo anbieten - ein populärer NFT-Marktplatz ist [OpenSea](https://opensea.io/), hier braucht man einen Account. Der Kauf erfolgt normalerweise mit einer Cryptowährung, daher braucht man ein Crypto Wallet, in das die Cryptocoins überwiesen werden können (bei der _Ethereum-Blockchain_ heißen die _Ether bzw. ETH_ bei der Bitcoin-Blockchain _Bitcoin bzw. BTC_) - populär ist [MetaMask](https://metamask.io/) und [Coinbase Wallet](https://www.coinbase.com/wallet). Nach dem Verkauf möchte man sicherlich die Cryptowährung in echtes Geld umwandeln, die Cryptocoins also verkaufen, dafür braucht man einen Account bei einer Cryptobörse - häufig verwendet wird [Coinbase](https://www.coinbase.com/). Zusammengefasst:
 
-* Account bei einem NFT-Marktplatz  --> [OpenSea](https://opensea.io/)
-* Ein Crypto Wallet  --> [MetaMask](https://metamask.io/) oder [Coinbase Wallet](https://www.coinbase.com/wallet)
-* Account bei einer Cryptobörse  --> [Coinbase](https://www.coinbase.com/)
+- Account bei einem NFT-Marktplatz  --> [OpenSea](https://opensea.io/)
+- Ein Crypto Wallet  --> [MetaMask](https://metamask.io/) oder [Coinbase Wallet](https://www.coinbase.com/wallet)
+- Account bei einer Cryptobörse  --> [Coinbase](https://www.coinbase.com/)
 
 ### Welche Kosten entstehen beim Verkauf von NFTs?
 
@@ -49,14 +49,14 @@ Ich versuche hier trotzdem mal die [Kostenübersicht bei OpenSea](https://suppor
 
 Einmalige _gas fees_ für:
 
-* [zwei Transaktionen bei Account Erstellung bzw. Aktivierung für NFT-Handel](https://support.opensea.io/hc/en-us/articles/1500003246262)
+- [zwei Transaktionen bei Account Erstellung bzw. Aktivierung für NFT-Handel](https://support.opensea.io/hc/en-us/articles/1500003246262)
 
 Wiederkehrende _gas fees_ für:
 
-* Annahme von Geboten bei NFT-Auktionen
-* Übertragen oder Verschenken von NFTs (ob der Verkauf zu einem Festpreisangebot als "Übertragen" gilt, weiß ich nicht)
-* Abbrechen eines Verkaufsangebots von NFTs, [+1 für jedes vorherige Senken eines Festpreisangebotes](https://support.opensea.io/hc/en-us/articles/4410153816723)
-* _WETH_ in _ETH_ umwandeln (und umgekehrt)
+- Annahme von Geboten bei NFT-Auktionen
+- Übertragen oder Verschenken von NFTs (ob der Verkauf zu einem Festpreisangebot als "Übertragen" gilt, weiß ich nicht)
+- Abbrechen eines Verkaufsangebots von NFTs, [+1 für jedes vorherige Senken eines Festpreisangebotes](https://support.opensea.io/hc/en-us/articles/4410153816723)
+- _WETH_ in _ETH_ umwandeln (und umgekehrt)
 
 ### Alles weitere
 
@@ -64,8 +64,8 @@ Ich empfehle, sich ein wenig durch das [Help Center von OpenSea](https://support
 
 Abschließend noch zwei Videos zu NFTs:
 
-* [Einfache Video-Erklärung](https://yewtu.be/watch?v=uVTMALeu_I4), was NFTs sind und ob es sich lohnt seine Kunst als NFT zu verkaufen oder lieber woanders. Die ist etwas nervig, aber was sie erzählt, scheint mir sinnvoll zu sein - wenn auch technisch teils nicht ganz korrekt
-* [Video mit Tips](https://yewtu.be/watch?v=mj-OgSlX2UE), wie man NFT-Angebote setzen sollte, um _gas fees_ klein zu halten
+- [Einfache Video-Erklärung](https://yewtu.be/watch?v=uVTMALeu_I4), was NFTs sind und ob es sich lohnt seine Kunst als NFT zu verkaufen oder lieber woanders. Die ist etwas nervig, aber was sie erzählt, scheint mir sinnvoll zu sein - wenn auch technisch teils nicht ganz korrekt
+- [Video mit Tips](https://yewtu.be/watch?v=mj-OgSlX2UE), wie man NFT-Angebote setzen sollte, um _gas fees_ klein zu halten
 
 ---
 
@@ -99,8 +99,8 @@ Das vorige Beispiel mit dem Haustürschlüssel war genau genommen etwas verkürz
 
 Das ist eine gute Frage :) Man könnte auch einfach den Kaufvertrag über eine Online-Handelsplattform wie bspw. Ebay abschließen. Zwei "Probleme" die hierbei scheinbar auftauchen sind:
 
-* dass man der Plattform (einer zentralen Institution) vertrauen müsste, diese Verträge rechtlich bindend zu verifizieren
-* dass man nicht anonym ist
+- dass man der Plattform (einer zentralen Institution) vertrauen müsste, diese Verträge rechtlich bindend zu verifizieren
+- dass man nicht anonym ist
 
 Beide Probleme werden durch die _Blockchain_ gelöst; man kann damit _anonyme_ Kaufverträge abschließen und diese _dezentral_ verifizieren. Technisch ist das meiner Meinung nach hochinteressant. Jedoch kann man sich schon fragen, ob diese beiden Punkte bei Kaufverträgen wirklich kritische Probleme darstellen, denn zumindest die Anonymität ist nicht zwangsläufig gewährleistet. Schließlich werden die meisten _Käufer_ die erworbenen Dateien (oder digitalen Güter) auf irgendwelchen Plattformen "ausstellen" oder nutzen wollen, wodurch sie in den meisten Fällen wieder identifizierbar werden dürften. Die meisten _Verkäufer_ werden den Erlös (Cryptowährung) in echtes Geld wechseln und sind dabei an die _zentrale_ Wechselstelle (Cryptobörse) gebunden, wodurch sie ebenfalls identifizierbar werden - noch dazu an einer zentralen Stelle.
 
