@@ -1,5 +1,18 @@
 # NFTs
 
+- [NFTs](#nfts)
+  - [Die praktische Seite](#die-praktische-seite)
+    - [Was brauche ich um NFTs zu verkaufen?](#was-brauche-ich-um-nfts-zu-verkaufen)
+    - [Welche Kosten entstehen beim Verkauf von NFTs?](#welche-kosten-entstehen-beim-verkauf-von-nfts)
+      - [Gas fees ("Benzingebühren")](#gas-fees-benzingebühren)
+      - [Zwischenfazit](#zwischenfazit)
+    - [Alles weitere](#alles-weitere)
+  - [Die technische Seite](#die-technische-seite)
+    - [Was ist ein NFT?](#was-ist-ein-nft)
+    - [Kann man damit Besitzverhältnisse abbilden?](#kann-man-damit-besitzverhältnisse-abbilden)
+    - [Wozu die Blockchain?](#wozu-die-blockchain)
+    - [Wozu der Hash?](#wozu-der-hash)
+
 ## Die praktische Seite
 
 ### Was brauche ich um NFTs zu verkaufen?
